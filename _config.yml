@@ -51,45 +51,78 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: CodeLess # Title for the section
+  - title: Project # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
         border: weak  # Value of `weak` will display a weak border below this item. # Any 
                       # other value (or no value) means no border will be displayed
-        title: Project name
-        link: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-        link_text: Link Text
+        title: 코드리스 CodeLess
+        link: http://c7d2301t1.itwillbs.com/CodeLess/Main.me
+        link_text: 코드리스 웹페이지 
         additional_links:
           - title:  Github page for project (eg. sproogen/modern-resume-theme)
             icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
-          - title:  Github page for project (eg. sproogen/modern-resume-theme)
-            icon: fab fa-github
-            url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+            url: https://github.com/sungchanseo/CodeLess
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
         quote: >
           Short overview of the project (optional)
         description: | # this will include new lines to allow paragraphs
           Description about the work on/with the project
+
+        title: 두루와 DURUWA
+        link: 
+        link_text: 두루와 웹페이지 
+        additional_links:
+          - title:  Github page for project (eg. sproogen/modern-resume-theme)
+            icon: fab fa-github
+            url: https://github.com/sungchanseo/Alcoholic
+          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
+          #   icon: fab fa-github
+          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)(optional)
+        quote: >
+          Short overview of the project (optional)
+        description: | # this will include new lines to allow paragraphs
+          Description about the work on/with the project
+                    
   - title: Experience
     layout: list
     content:
-      - layout: right
-        title: Company name
-        sub_title: Job title
-        caption: Date Range (eg. November 2016 - present)
-        link: Link to company (optional)
+      - layout: left
+        title: 서울시북부기술교육원 Seoul North Institute of Technology & Education
+        sub_title: 조경관리과 Department of Landscape Management
+        caption: 2018.10 ~ 2019.07 Octover, 2018 ~ July, 2019
+        link: http://www.bukedu.or.kr/home/homeIndex.do
         quote: >
-          Short description of the company (optional)
+          서울특별시 산하 직업전문교육기관 
         description: | # this will include new lines to allow paragraphs
-          Description of role
+          주임강사 Head Instructor
+        title: 국립공원공단 북한산관리사무소 Korea National Part Service
+        sub_title: 자원보전과 Department of Nature Conservation 
+        caption: 2016.03 ~ 2016.05 March, 2016 ~ June, 2016
+        link: http://www.bukedu.or.kr/home/homeIndex.do
+        quote: >
+          
+        description: | # this will include new lines to allow paragraphs
+          청년인턴 Youth Intern
+        title: 태성금속 Taesung Steal
+        sub_title: 관리부 Management Department 
+        caption: 2022.02 ~ 2022.01 Feburary, 2022 ~ January, 2023
+        link: 
+        quote: >
+          경질크롬도금 
+        description: | # this will include new lines to allow paragraphs
+          사원 Employee
   - title: Education
     layout: list
     content:
       - layout: top-right
-        title: Institution name
-        sub_title: Qualifications (eg. BA Performing Arts)
-        caption: Date Range (eg. 2016 - 2019)
+        title: 클라우드 융합 자바 스프링 백엔드 개발자 Cloud Fusion Java Spring Backend Developer
+        sub_title: 
+        caption: 2023.01 ~ 2023.07 January, 2023 ~ July, 2023
+        link : https://itwillbs.co.kr
         quote: >
           Short institution or course description (optional)
         description: | # this will include new lines to allow paragraphs
