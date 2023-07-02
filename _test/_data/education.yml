@@ -1,30 +1,11 @@
-- name: Wonkwang Digital University
-  dates: 2023 - 
-  qualification: Bachelor of Physiognomy, Face Management
-  quote: >
-    Short institution or course description
-  description: >
-    Description of qualification
+- name: 원광디지털대학교 Wonkwang Digital University
+  dates: 2023.2 - 
+  qualification: 얼굴경영학과(얼굴경영학사) Bachelor of Physiognomy, Face Management
 
-- name: Wonkwang Digital University
-  dates: 2021 - 2023
-  qualification: Bachelor of Arts, Korean Costume Science
-  quote: >
-    Short institution or course description
-  description: >
-    Description of qualification
+- name: 원광디지털대학교 Wonkwang Digital University
+  dates: 2021.3 - 2023.2 
+  qualification: 한국복식과학학과(예술학사) Bachelor of Arts, Korean Costume Science
 
-- name: Kookmin University
-  dates: 2012 - 2018
-  qualification: Bachelor of Forestry, Forest Environmental Systems
-  quote: >
-    Short institution or course description
-  description: >
-    Description of qualification    
-
-- layout: left
-  name: Institution 2
-  dates: 2013 - 2016
-  qualification: A levels
-  description: >
-    Description of qualification
+- name: 국민대학교 Kookmin University 
+  dates: 2012.3 - 2018.8
+  qualification: 산림자원학과(임학사) Bachelor of Forestry, Forest Environmental Systems   

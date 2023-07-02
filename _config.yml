@@ -6,28 +6,28 @@ repository: Git repository where your resume will be hosted, only required if yo
 version: 2
 
 # Personal info
-name: Sungchan Seo
-title: Junior Back-end Web Developer
+name: 서성찬 Sungchan Seo
+title: 주니어 백엔드 개발자 Junior Back-end Web Developer
 email: seobanquet@gmail.com
 # email_title: Email (Email title override)
 phone: +82)10-9619-9613
 # phone_title: Phone (Phone title override)
-website: Your website (eg. https://google.com)(optional)
+# website: 
 # website_title: Web (Website title override)
 
 # Dark Mode (true/false/never)
 darkmode: false
 
 # Social links
-twitter_username: jekyllrb
+# twitter_username: jekyllrb
 github_username:  sungchanseo
-stackoverflow_username: "00000001"
+#stackoverflow_username: "00000001"
 
 # Additional icon links
-additional_links:
-- title: Link name
-  icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
-  url: Link url (eg. https://google.com)
+# additional_links:
+# - title: Link name
+  # icon: Font Awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
+ #  url: Link url (eg. https://google.com)
 # - title: another link
 #   icon: font awesome brand icon name (eg. fab fa-twitter) (https://fontawesome.com/icons?d=gallery&s=brands&m=free)
 #   url: Link url (eg. https://google.com)
@@ -51,7 +51,7 @@ about_content: | # this will include new lines to allow paragraphs
     - Images ![alt text](/images/landscape-trees.jpg "Trees")
 
 content:
-  - title: Projects # Title for the section
+  - title: CodeLess # Title for the section
     layout: list # Type of content section (list/text)
     content:
       - layout: left
